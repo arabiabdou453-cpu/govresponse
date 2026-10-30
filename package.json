@@ -1,0 +1,25 @@
+{
+  "name": "govresponse",
+  "version": "1.0.0",
+  "description": "GovResponse — Emergency Operations Center (EOC) Platform with ICS Forms, SEMS, Cal OES & FEMA Cost Recovery",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "emergency-operations-center",
+    "eoc",
+    "incident-command-system",
+    "ics-forms",
+    "nims",
+    "sems",
+    "cal-oes",
+    "fema-cost-recovery",
+    "disaster-management",
+    "tactical-mapping",
+    "evacuation-management"
+  ],
+  "author": "Abdou Arabi",
+  "license": "MIT"
+}
